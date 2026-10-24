@@ -1,6 +1,6 @@
 # 👋 Olá, eu sou o Caio
 
-🎓 Profissional de TI com formação em Ciência da Computação (UNIFACS)  
+🎓 Profissional de TI com formação em Ciência da Computação  
 💻 Focado em Desenvolvimento Backend e Engenharia de Dados  
 ☁️ Experiência com AWS, ETL e processamento de dados  
 
